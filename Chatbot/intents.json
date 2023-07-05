@@ -1,0 +1,85 @@
+{"intents": [
+    {
+        "tag": "greetings",
+        "patterns": ["Hello","hey","hi","good day","Greetings","what's up?","how is it going?"],
+        "responses":["Hello!","Hey!","What can I do?"]
+},
+    {
+        "tag":"goodbye",
+        "patterns": ["cya","See you later","Goodbye","I am Leaving","have a good day","bye","cao","see ya"],
+        "responses":["Sad to see you go:(","Talk to you later","GoodBye!"]
+    },
+    
+          {
+            "tag": "flu",
+            "patterns": ["What are the symptoms for flu?", "What is flu?"],
+            "responses": ["The symptoms of flu include fever, cough, sore throat, runny or stuffy nose, body aches, headache, chills, fatigue, and sometimes vomiting and diarrhea. Flu is a contagious respiratory illness caused by influenza viruses."]
+          },
+          {
+            "tag": "common_cold",
+            "patterns": ["What are the symptoms of a common cold?", "What is a common cold?"],
+            "responses": ["The symptoms of a common cold include sneezing, runny or stuffy nose, sore throat, cough, mild headache, mild body aches, and mild fatigue. A common cold is a viral infection of the upper respiratory tract."]
+          },
+          {
+            "tag": "diabetes",
+            "patterns": ["What are the symptoms of diabetes?", "What is diabetes?"],
+            "responses": ["The symptoms of diabetes include increased thirst, frequent urination, unexplained weight loss, increased hunger, fatigue, blurred vision, slow-healing sores, and frequent infections. Diabetes is a chronic condition that affects the body's ability to regulate blood sugar levels."]
+          },
+          {
+            "tag": "asthma",
+            "patterns": ["What are the symptoms of asthma?", "What is asthma?"],
+            "responses": ["The symptoms of asthma include wheezing, shortness of breath, chest tightness, and coughing, especially at night or early in the morning. Asthma is a chronic lung disease characterized by inflammation and narrowing of the airways."]
+          },
+          {
+            "tag": "migraine",
+            "patterns": ["What are the symptoms of a migraine?", "What is a migraine?"],
+            "responses": ["The symptoms of a migraine include severe headache, often on one side of the head, pulsating or throbbing pain, sensitivity to light and sound, nausea, and vomiting. A migraine is a neurological condition that can cause disabling headaches."]
+          },
+          {
+            "tag": "pneumonia",
+            "patterns": ["What are the symptoms of pneumonia?", "What is pneumonia?"],
+            "responses": ["The symptoms of pneumonia include cough, fever, chest pain, shortness of breath, fatigue, and sometimes confusion. Pneumonia is an infection that inflames the air sacs in one or both lungs."]
+          },
+          {
+            "tag": "allergies",
+            "patterns": ["What are the symptoms of allergies?", "What are common allergy symptoms?"],
+            "responses": ["The symptoms of allergies can vary, but commonly include sneezing, itching (nose, eyes, throat), runny or stuffy nose, watery eyes, and rash. Allergies occur when the immune system overreacts to a substance (allergen) that is normally harmless."]
+          },
+          {
+            "tag": "hypertension",
+            "patterns": ["What are the symptoms of hypertension?", "What is hypertension?"],
+            "responses": ["Hypertension, or high blood pressure, often has no symptoms. However, some people may experience headaches, shortness of breath, nosebleeds, and dizziness. Hypertension is a condition where the force of blood against the artery walls is consistently too high."]
+          },
+          {
+            "tag": "depression",
+            "patterns": ["What are the symptoms of depression?", "What is depression?"],
+            "responses": ["The symptoms of depression can include persistent sadness, loss of interest or pleasure, changes in appetite and sleep patterns, fatigue, feelings of worthlessness or guilt, difficulty concentrating, and thoughts of self-harm or suicide. Depression is a mood disorder that affects how a person thinks, feels, and functions."]
+          },
+          {
+            "tag": "varicose",
+            "patterns": ["What are the symptoms of varicose veins?", "What is varicose veins?"],
+            "responses": ["The symptoms of varicose veins include enlarged, twisted veins that are visible under the skin, pain or aching in the affected area, swelling, itching, and a heavy or restless feeling in the legs. Varicose veins are veins that have become enlarged and twisted, usually occurring in the legs."]
+          },
+          {
+            "tag": "piles",
+            "patterns": ["What are the symptoms of piles?", "What are piles?"],
+            "responses": ["The symptoms of piles (hemorrhoids) include pain, itching, and swelling around the anus, bright red blood during bowel movements, discomfort or pain during bowel movements, and a lump near the anus. Piles are swollen blood vessels in the rectum or anus that can cause discomfort and bleeding."]
+          },
+          {
+            "tag": "stroke",
+            "patterns": ["What are the symptoms of a stroke?", "What is a stroke?"],
+            "responses": ["The symptoms of a stroke include sudden numbness or weakness of the face, arm, or leg, especially on one side of the body, confusion, trouble speaking or understanding speech, difficulty seeing in one or both eyes, trouble walking, dizziness, and severe headache. A stroke occurs when the blood supply to the brain is interrupted, leading to brain damage and potentially life-threatening complications."]
+          },
+          {
+            "tag": "rashes",
+            "patterns": ["What are the symptoms of rashes?", "What causes skin rashes?"],
+            "responses": ["The symptoms of rashes vary depending on the cause but can include redness, itching, inflammation, bumps, blisters, or dry and flaky skin. Rashes can be caused by various factors such as allergic reactions, infections, autoimmune disorders, or contact with irritants or allergens."]
+          },
+          {
+            "tag": "cancer",
+            "patterns": ["What are the symptoms of cancer?", "What is cancer?"],
+            "responses": ["The symptoms of cancer depend on the type and stage but can include unexplained weight loss, fatigue, pain, changes in the skin, persistent cough or hoarseness, changes in bowel or bladder habits, and unusual bleeding or discharge. Cancer is a group of diseases characterized by the uncontrolled growth and spread of abnormal cells."]
+          }
+        ]
+      }
+      
